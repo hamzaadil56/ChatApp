@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+}
+.chat-app {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.login {
+  width: 70%;
+  text-align: center;
+}
+.login button {
+  font-size: 25px;
+  background-color: rgb(10, 10, 112);
+  color: white;
+  border-radius: 25px;
+  width: 80%;
+  height: 30%;
+  padding: 25px;
+  margin: 10px;
+}
